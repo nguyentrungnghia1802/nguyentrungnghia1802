@@ -3,7 +3,7 @@
 # 👋 Hello, I'm Nguyen Trung Nghia! 
 ### 💻 Full Stack Developer | 🚀 Tech Enthusiast | 🎯 Problem Solver
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=435&lines=Backend+Developer;Frontend+Developer;Database+Designer;System+Administrator;Always+Learning+New+Tech!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=435&lines=Web+Developer;DevOps+Engineer;Database+Designer;System+Administrator;Always+Learning+New+Tech!" alt="Typing SVG" />
 
 </div>
 
