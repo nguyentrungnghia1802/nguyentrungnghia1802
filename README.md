@@ -89,7 +89,7 @@
 <div align="center">
 
 [![Hanaya Shop](https://github-readme-stats.vercel.app/api/pin/?username=nguyentrungnghia1802&repo=Hanaya-Shop&theme=tokyonight)](https://github.com/nguyentrungnghia1802/Hanaya-Shop)
-[![Library Management](https://github-readme-stats.vercel.app/api/pin/?username=nguyentrungnghia1802&repo=Library_Management_Application&theme=tokyonight)](https://github.com/nguyentrungnghia1802/Library_Management_Application)
+[![English Learning Web](https://github-readme-stats.vercel.app/api/pin/?username=nguyentrungnghia1802&repo=English-Learning-Web&theme=tokyonight)](https://github.com/nguyentrungnghia1802/English-Learning-Web)
 
 </div>
 
