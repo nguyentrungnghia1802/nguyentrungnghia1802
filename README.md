@@ -58,8 +58,8 @@ I am a backend-focused Full Stack Developer with practical experience in buildin
 
 - **Hanaya Shop**: E-commerce platform with practical business workflows and full-stack implementation.  
   🔗 Repository: [github.com/nguyentrungnghia1802/Hanaya-Shop](https://github.com/nguyentrungnghia1802/Hanaya-Shop)
-- **English Learning Web**: Structured language-learning platform focused on user engagement and clear learning flows.  
-  🔗 Repository: [github.com/nguyentrungnghia1802/English-Learning-Web](https://github.com/nguyentrungnghia1802/English-Learning-Web)
+- **Emotion Friend**: Mental health support app with emotion tracking and community features.  
+  🔗 Repository: [github.com/nguyentrungnghia1802/Emotion-Friend](https://github.com/nguyentrungnghia1802/emotion-Friend)
 
 ---
 
@@ -75,8 +75,8 @@ I am a backend-focused Full Stack Developer with practical experience in buildin
 ## GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nguyentrungnghia1802&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub stats" />
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=nguyentrungnghia1802&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top languages" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nguyentrungnghia1802&theme=tokyonight" alt="GitHub stats" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nguyentrungnghia1802&theme=tokyonight" alt="Top languages" />
 </div>
 
 <div align="center">
