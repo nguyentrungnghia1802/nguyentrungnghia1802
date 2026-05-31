@@ -1,9 +1,13 @@
 <div align="center">
 
-# Nguyen Trung Nghia
-### Full Stack Developer | DevOps Engineer
+## 👋 Hello, I'm Nguyen Trung Nghia
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Fullstack+Developer;DevOps Engineer;Problem+Solver" alt="Typing SVG" />
+
+<br/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://nguyentrungnghia1802.github.io/Profile/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nguyen-trung-nghia-366842157/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nguyentrungnghia1802)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:assassincreed2k1@gmail.com)
 
@@ -11,14 +15,16 @@
 
 ---
 
+<img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="220" alt="coding gif" />
+
 ## Professional Summary
 
-Backend-focused Full Stack Developer with hands-on experience delivering production-ready web applications across Laravel, Spring Boot, and React ecosystems. Strong interest in DevOps practices, clean architecture, and scalable system design.
+I am a backend-focused Full Stack Developer with practical experience in building production-ready applications, designing scalable data models, and deploying reliable services.
 
-- Build maintainable APIs and business logic for real-world applications
-- Design and optimize relational databases for performance and reliability
-- Containerize and deploy services with practical server operations experience
-- Prioritize code quality, collaboration, and long-term maintainability
+- Develop robust APIs and business modules with clear architecture
+- Build full-stack web applications with maintainable frontend and backend layers
+- Optimize MySQL and PostgreSQL workloads for performance and stability
+- Apply DevOps practices to streamline containerized deployment pipelines
 
 ---
 
@@ -36,7 +42,7 @@ Backend-focused Full Stack Developer with hands-on experience delivering product
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-### Database
+### Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
@@ -50,24 +56,19 @@ Backend-focused Full Stack Developer with hands-on experience delivering product
 
 ## Featured Projects
 
-- **Hanaya Shop**: Full-stack e-commerce application focused on practical business workflows and clean UI.
-- **English Learning Web**: Web platform for language learning with structured content and interactive learning support.
-
-<div align="center">
-
-[![Hanaya Shop](https://github-readme-stats.vercel.app/api/pin/?username=nguyentrungnghia1802&repo=Hanaya-Shop&theme=tokyonight)](https://github.com/nguyentrungnghia1802/Hanaya-Shop)
-[![English Learning Web](https://github-readme-stats.vercel.app/api/pin/?username=nguyentrungnghia1802&repo=English-Learning-Web&theme=tokyonight)](https://github.com/nguyentrungnghia1802/English-Learning-Web)
-
-</div>
+- **Hanaya Shop**: E-commerce platform with practical business workflows and full-stack implementation.  
+  🔗 Repository: [github.com/nguyentrungnghia1802/Hanaya-Shop](https://github.com/nguyentrungnghia1802/Hanaya-Shop)
+- **English Learning Web**: Structured language-learning platform focused on user engagement and clear learning flows.  
+  🔗 Repository: [github.com/nguyentrungnghia1802/English-Learning-Web](https://github.com/nguyentrungnghia1802/English-Learning-Web)
 
 ---
 
 ## Current Focus
 
-- Architecting backend systems with Laravel and Spring Boot
-- Building responsive, reusable frontend modules with React
-- Improving deployment workflows using Docker and Nginx
-- Strengthening software engineering fundamentals and system design
+- Designing clean and scalable backend services with Laravel and Spring Boot
+- Improving frontend architecture with reusable React components
+- Enhancing deployment reliability with Docker and Nginx
+- Strengthening software design and system architecture fundamentals
 
 ---
 
@@ -75,7 +76,7 @@ Backend-focused Full Stack Developer with hands-on experience delivering product
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nguyentrungnghia1802&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyentrungnghia1802&layout=compact&langs_count=8&theme=tokyonight" alt="Top languages" />
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=nguyentrungnghia1802&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top languages" />
 </div>
 
 <div align="center">
@@ -83,10 +84,3 @@ Backend-focused Full Stack Developer with hands-on experience delivering product
 </div>
 
 ---
-
-## Contact
-
-- Portfolio: https://nguyentrungnghia1802.github.io/Profile/
-- GitHub: https://github.com/nguyentrungnghia1802
-- Facebook: https://www.facebook.com/profile.php?id=61578955599081
-- Email: assassincreed2k1@gmail.com
